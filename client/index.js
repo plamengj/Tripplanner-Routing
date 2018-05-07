@@ -15,7 +15,7 @@ const state = {
   * Instantiate the Map
   */
 
-mapboxgl.accessToken = "YOUR API TOKEN HERE";
+mapboxgl.accessToken = "pk.eyJ1IjoibWpodWk5MCIsImEiOiJjamd3cXU0Z2Exc2x6MnFwNjk1eXBmZ3BhIn0.-M4z06v0k26gY6R5iXbAqg";
 
 const fullstackCoords = [-74.009, 40.705] // NY
 // const fullstackCoords = [-87.6320523, 41.8881084] // CHI
